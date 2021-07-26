@@ -1,8 +1,8 @@
 [
   {
-    "variant-phenotype":1,
-    "variant-no-phenotype":0,
+    "variant-phenotype":1,   
     "no-variant-phenotype":66,
+    "variant-no-phenotype":0,
     "no-variant-no-phenotype":234
   }
  ]
